@@ -1,0 +1,29 @@
+.room-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  background-color: #fff;
+}
+
+.lazy-image {
+  width: 100%;
+  height: auto;
+}
+
+.skeleton-loader {
+  background-color: #f0f0f0;
+  height: 200px;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.room-listing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
